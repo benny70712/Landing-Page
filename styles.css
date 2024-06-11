@@ -77,7 +77,6 @@ body {
 }
 
 .image-container {
-    background-color: red;
     width: 600px;
 }
 
@@ -161,7 +160,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: antiquewhite;
 }
 
 .sign-up-content-container {
